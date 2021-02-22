@@ -5,6 +5,7 @@
 A Google Clone built using [ReactJS](https://github.com/facebook/react), Redux, [Material UI](https://material-ui.com/), [Google Custom Search APIs](https://developers.google.com/custom-search/v1/), and [Google Firebase](http://firebase.google.com/) Hosting.
 
 [![image](preview.png)](https://google.demo.ranajahanzaib.com)
+[Live Demo](https://google.demo.ranajahanzaib.com)
 
 ## Contributing
 
